@@ -2,4 +2,4 @@
 
 hello world
 
-iformation about this site
+information about this 
